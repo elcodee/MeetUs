@@ -35,7 +35,7 @@
 
 <a href="https://github.com/elcodee/MeetUs">
   <center>
-    <img src="/mainScreen.png" alt="Logo" width="auto" height="350">
+    <img src="/meetUsMain.png" alt="Logo" width="auto" height="350">
   </center>
   </a>
 
