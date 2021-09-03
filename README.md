@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/elcodee/chatApp">
-    <img src="/chatAppIcon.png" alt="Logo" width="200" height="200">
+    <img src="/chatAppIcon.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Chat App</h3>
@@ -61,4 +61,4 @@ Project Link: [https://github.com/elcodee/chatApp](https://github.com/elcodee/ch
 [issues-url]: https://github.com/elcodee/todoingApp/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rmdtya/
-[product-screenshot]: /public/assets/img/todoing-app.png
+[product-screenshot]: /mainScreen.png
