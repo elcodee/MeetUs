@@ -24,7 +24,7 @@
         <li><a href="#technology-used">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#issues">Issues</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
