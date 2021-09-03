@@ -5,7 +5,7 @@
     <img src="/chatAppIcon.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Chat App</h3>
+  <h3 align="center">Meet Us</h3>
 
   <p align="center">
     Simple Web Chat App With Someone Love You :)
