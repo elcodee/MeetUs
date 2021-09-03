@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/elcodee/chatApp">
+  <a href="https://github.com/elcodee/MeetUs">
     <img src="/chatAppIcon.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -33,7 +33,7 @@
 
 ## About The Project
 
-<a href="https://github.com/elcodee/chatApp">
+<a href="https://github.com/elcodee/MeetUs">
   <center>
     <img src="/mainScreen.png" alt="Logo" width="auto" height="350">
   </center>
@@ -49,7 +49,7 @@ This is my project about a web-based chat application
 
 ## Issues
 
-See the [open issues](https://github.com/elcodee/chatApp/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/elcodee/MeetUs/issues) for a list of proposed features (and known issues).
 
 <!-- CONTACT -->
 
@@ -57,11 +57,11 @@ See the [open issues](https://github.com/elcodee/chatApp/issues) for a list of p
 
 Rama Aditya - [elcode.xyz](https://elcode.xyz) - elcodeee@mail.com
 
-Project Link: [https://github.com/elcodee/chatApp](https://github.com/elcodee/chatApp)
+Project Link: [https://github.com/elcodee/chatApp](https://github.com/elcodee/MeetUs)
 
 <!-- MARKDOWN LINKS & BADGE -->
 
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/elcodee/chatApp/issues
+[issues-url]: https://github.com/elcodee/MeetUs/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rmdtya/
