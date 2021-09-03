@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/elcodee/chatApp">
-    <img src="/chatApp.png" alt="Logo" width="200" height="200">
+    <img src="/chatAppIcon.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Chat App</h3>
