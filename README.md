@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/elcodee/todoingApp">
-    <img src="/chatApp.png.png" alt="Logo" width="200" height="200">
+  <a href="https://github.com/elcodee/chatApp">
+    <img src="chatApp.png.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Chat App</h3>
@@ -33,7 +33,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/elcodee/todoingApp)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/elcodee/chatApp)
 
 This is my project at dumbways.id about express js and integration into the mysql database. With all the knowledge I have and the new knowledge that I got in the dumbways.id class, I implemented it into this project
 
