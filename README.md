@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/elcodee/chatApp">
-    <img src="chatApp.png.png" alt="Logo" width="200" height="200">
+    <img src="./chatApp.png.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Chat App</h3>
@@ -43,7 +43,7 @@ This is my project at dumbways.id about express js and integration into the mysq
 
 <!-- ROADMAP -->
 
-## Roadmap
+## Issues
 
 See the [open issues](https://github.com/elcodee/chatApp/issues) for a list of proposed features (and known issues).
 
