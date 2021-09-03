@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/elcodee/todoingApp">
-    <img src="/public/assets/img/todo.png" alt="Logo" width="200" height="200">
+    <img src="/chatApp.png.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Chat App</h3>
