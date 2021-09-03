@@ -35,7 +35,9 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://github.com/elcodee/chatApp) -->
 <a href="https://github.com/elcodee/chatApp">
-    <img src="/mainScreen.png" alt="Logo" width="auto" height="200">
+  <center>
+    <img src="/mainScreen.png" alt="Logo" width="auto" height="350">
+  </center>
   </a>
 
 This is my project at dumbways.id about express js and integration into the mysql database. With all the knowledge I have and the new knowledge that I got in the dumbways.id class, I implemented it into this project
