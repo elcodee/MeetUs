@@ -8,7 +8,7 @@
   <h3 align="center">Meet Us</h3>
 
   <p align="center">
-    Simple Web Chat App With Someone Love You :)
+    Simple Web Chat App With Someone You Love :)
   </p>
 </p>
 
