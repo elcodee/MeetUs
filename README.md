@@ -59,7 +59,7 @@ See the [open issues](https://github.com/elcodee/MeetUs/issues) for a list of pr
 
 Rama Aditya - [elcode.xyz](https://elcode.xyz) - elcodeee@mail.com
 
-Project Link: [https://github.com/elcodee/chatApp](https://github.com/elcodee/MeetUs)
+Project Link: [https://github.com/elcodee/MeetUs](https://github.com/elcodee/MeetUs)
 
 <!-- MARKDOWN LINKS & BADGE -->
 
