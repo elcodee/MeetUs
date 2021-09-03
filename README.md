@@ -39,7 +39,7 @@
   </center>
   </a>
 
-This is my project at dumbways.id about express js and integration into the mysql database. With all the knowledge I have and the new knowledge that I got in the dumbways.id class, I implemented it into this project
+This is my project about a web-based chat application
 
 ## Technology Used
 
@@ -62,7 +62,6 @@ Project Link: [https://github.com/elcodee/chatApp](https://github.com/elcodee/ch
 <!-- MARKDOWN LINKS & BADGE -->
 
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/elcodee/todoingApp/issues
+[issues-url]: https://github.com/elcodee/chatApp/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rmdtya/
-[product-screenshot]: /mainScreen.png
