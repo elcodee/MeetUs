@@ -38,6 +38,7 @@
   <center>
     <img src="/meetUsLanding.png" alt="Logo" width="auto" height="350">
     <img src="/meetUsMain.png" alt="Logo" width="auto" height="350">
+    <img src="/meetUsPost.png" alt="Logo" width="auto" height="350">
   </center>
   </a>
 
