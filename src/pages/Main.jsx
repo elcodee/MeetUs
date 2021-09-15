@@ -22,11 +22,7 @@ import {
   useToast,
   VStack,
 } from "@chakra-ui/react";
-import {
-  ArrowBackIcon,
-  EditIcon,
-  SettingsIcon,
-} from "@chakra-ui/icons";
+import { ArrowBackIcon, EditIcon, SettingsIcon } from "@chakra-ui/icons";
 import { useContext } from "react";
 import { useHistory } from "react-router-dom";
 import { ChatLits } from "../components/ChatLits";
@@ -34,6 +30,7 @@ import { UserContext } from "../config/local";
 import Icon from "../common/img/chatAppIcon.png";
 import { Signin } from "../components/Signin";
 import { Signup } from "../components/Signup";
+import { Post } from "../pages/Post";
 
 export const Main = () => {
   const { userState, userDispatch } = useContext(UserContext);
@@ -60,8 +57,6 @@ export const Main = () => {
   };
   return (
     <>
-      {/* <Header /> */}
-
       <Container>
         {!userState.isLogin ? (
           <>
@@ -84,9 +79,9 @@ export const Main = () => {
                     </Box>
                   </VStack>
                 </Box>
-                
-                 {/* Sign up */}
-                 <Signup />
+
+                {/* Sign up */}
+                <Signup />
 
                 {/* Sign in */}
                 <Signin />
@@ -136,7 +131,7 @@ export const Main = () => {
                   </SlideFade>
                 </TabPanel>
                 <TabPanel>
-                  <p>POST</p>
+                  <Post />
                 </TabPanel>
               </TabPanels>
             </Tabs>

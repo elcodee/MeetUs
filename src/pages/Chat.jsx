@@ -1,30 +1,50 @@
-import { Image } from "@chakra-ui/react";
+import {
+  Stack,
+  HStack,
+  Container,
+  Box,
+  Button,
+  Avatar,
+  Text,
+} from "@chakra-ui/react";
+import { ArrowBackIcon } from "@chakra-ui/icons";
+import { useHistory } from "react-router";
+import { BubbleLeft } from "../components/BubbleLeft";
+import { BubbleRight } from "../components/BubbleRight";
 
 export const Chat = () => {
+  const route = useHistory();
   return (
     <>
-      <div className="chat">
-        <div className="chat-title">
-          <h1>Rama</h1>
-          <h2>Admin</h2>
-          <figure className="avatar">
-            <Image name="Elcode" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/156381/profile/profile-80.jpg" />
-          </figure>
-        </div>
-        <div className="messages">
-          <div className="messages-content"></div>
-        </div>
-        <div className="message-box">
-          <textarea
-            type="text"
-            className="message-input"
-            placeholder="Type message..."
-          ></textarea>
-          <button type="submit" className="message-submit">
-            Send
-          </button>
-        </div>
-      </div>
+      <Stack>
+        <Box bg="grey" w="100%" h="65px" p={3} color="white">
+          <HStack>
+            <Button
+              onClick={() => route.push("/")}
+              w="10%"
+              h="100%"
+              colorScheme="black"
+              variant="solid"
+            >
+              <ArrowBackIcon boxSize="1.8em" />
+            </Button>
+            <Avatar boxSize="2em" ml={5} src="https://bit.ly/dan-abramov" />
+            <Stack>
+              <Text fontSize="lg">Elcode</Text>
+              <Text fontSize="xs" style={{ marginTop: "-0.5em" }}>
+                Online
+              </Text>
+            </Stack>
+          </HStack>
+        </Box>
+      </Stack>
+
+      <Stack>
+        <Container py={3}>
+          <BubbleLeft />
+          <BubbleRight />
+        </Container>
+      </Stack>
     </>
   );
 };

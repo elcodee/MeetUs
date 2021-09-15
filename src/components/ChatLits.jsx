@@ -1,5 +1,6 @@
 import {
   Avatar,
+  AvatarBadge,
   Box,
   Flex,
   Grid,
@@ -24,7 +25,9 @@ export const ChatLits = () => {
           <Flex>
             <Wrap>
               <WrapItem>
-                <Avatar name="Elcode" src="https://bit.ly/dan-abramov" />
+                <Avatar boxSize="2.5em" src="https://bit.ly/dan-abramov">
+                  <AvatarBadge boxSize="1em" bg="green.500" />
+                </Avatar>
               </WrapItem>
             </Wrap>
 
@@ -39,7 +42,7 @@ export const ChatLits = () => {
               </GridItem>
             </Grid>
             <Tag size="sm" h="1px" mt={3.5} colorScheme="teal">
-             1
+              1
             </Tag>
 
             <Box d="flex" alignItems="baseline">
